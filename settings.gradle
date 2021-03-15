@@ -1,0 +1,3 @@
+rootProject.name = 'scoreboard'
+include 'webapp'
+include 'webservice'
