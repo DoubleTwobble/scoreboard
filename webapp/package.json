@@ -1,0 +1,18 @@
+{
+  "name": "Scoreboard",
+  "version": "1.0.0",
+  "description": "A scoreboard to see how teams are doing against each other.",
+  "main": "index.js",
+  "repository": "https://github.com/DoubleTwobble/scoreboard",
+  "author": "Casper Hemmje Østergaard",
+  "license": "MIT",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.3",
+    "@types/react-dom": "17.0.2",
+    "typescript": "4.2.3"
+  }
+}
