@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  webservice:
+    build: ./webservice
+    container_name: scoreboard-webservice
+    expose:
+      - 8080
+
+
